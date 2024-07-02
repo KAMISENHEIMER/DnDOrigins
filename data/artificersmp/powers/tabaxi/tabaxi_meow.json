@@ -1,0 +1,14 @@
+{
+  "hidden": true,
+  "type": "origins:active_self",
+  "key": {
+    "key": "key.origins.secondary_active"
+  },
+  "cooldown": 10,
+  "entity_action": {
+    "type": "origins:play_sound",
+    "category": "players",
+    "sound": "minecraft:entity.cat.purreow",
+    "volume": 1
+  }
+}
