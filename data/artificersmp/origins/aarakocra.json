@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "artificersmp:claws"
+  ],
+  "icon": {
+    "item":"minecraft:elytra"
+  },
+  "impact": 2,
+  "name": "Aarakocra",
+  "description": "A winged people who originated on the Elemental Plane of Air, Aarakocra soar through the sky wherever they wander."
+}
