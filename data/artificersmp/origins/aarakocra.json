@@ -1,5 +1,11 @@
 {
   "powers": [
+    "artificersmp:aarakocra/aarakocra_wings",
+    "artificersmp:aarakocra/aarakocra_speed",
+    "artificersmp:aarakocra/aarakocra_hands",
+    "artificersmp:aarakocra/aarakocra_claustrophobia",
+    "artificersmp:aarakocra/aarakocra_hunger",
+    "artificersmp:aarakocra/aarakocra_flap",
     "artificersmp:claws"
   ],
   "icon": {
