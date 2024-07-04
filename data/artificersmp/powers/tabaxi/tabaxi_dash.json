@@ -10,7 +10,7 @@
         {
           "type": "origins:execute_command",
           "permission_level": 4,
-          "command": "effect give @s minecraft:speed 12 2"
+          "command": "effect give @s minecraft:speed 20 4"
         },
         {
           "type": "origins:change_resource",
@@ -21,7 +21,7 @@
         {
           "type": "origins:execute_command",
           "permission_level": 4,
-          "command": "/playsound minecraft:entity.ocelot.ambient player"
+          "command": "/playsound minecraft:entity.cat.purreow player"
         }
       ]
     },

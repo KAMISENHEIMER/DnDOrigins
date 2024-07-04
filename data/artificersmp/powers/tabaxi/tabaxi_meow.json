@@ -8,7 +8,7 @@
   "entity_action": {
     "type": "origins:play_sound",
     "category": "players",
-    "sound": "minecraft:entity.cat.purreow",
+    "sound": "minecraft:entity.cat.purr",
     "volume": 1
   }
 }
