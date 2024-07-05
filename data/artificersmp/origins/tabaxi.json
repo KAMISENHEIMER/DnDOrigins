@@ -1,0 +1,18 @@
+{
+    "powers": [
+        "artificersmp:tabaxi/tabaxi_agility",
+        "artificersmp:tabaxi/tabaxi_build",
+        "artificersmp:tabaxi/tabaxi_dash",
+        "artificersmp:tabaxi/tabaxi_water",
+        "artificersmp:tabaxi/tabaxi_meow",
+        "artificersmp:darkvision",
+        "artificersmp:claws",
+        "origins:scare_creepers"
+    ],
+    "icon": {
+        "item":"minecraft:ocelot_spawn_egg"
+    },
+    "impact": 1,
+    "name": "Tabaxi",
+    "description": "Tabaxi live like the cats they resemble, naturally curious and at home in playful environments."
+}
