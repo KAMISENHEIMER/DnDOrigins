@@ -1,0 +1,70 @@
+{
+  "name": "Vampiric Weakness",
+  "description": "Due to your vampiric nature, you burn in the sun, take damage in water, and wooden swords do 4 times as much damage to you.",
+  "type": "origins:multiple",
+  "hurt_by_water": {
+    "type": "origins:damage_over_time",
+    "interval": 20,
+    "onset_delay": 1,
+    "damage": 1,
+    "damage_easy": 1,
+    "damage_source": {
+      "name": "hurt_by_water",
+      "unblockable": true,
+      "bypasses_armor": true
+    },
+    "protection_enchantment": "origins:water_protection",
+    "protection_effectiveness": 1.0,
+    "condition": {
+      "type": "origins:fluid_height",
+      "fluid": "minecraft:water",
+      "comparison": ">",
+      "compare_to": 0.0
+    }
+  },
+  "fire_in_sun": {
+    "type": "origins:burn",
+    "interval": 20,
+    "burn_duration": 1,
+    "condition": {
+      "type": "origins:exposed_to_sun"
+    }
+  },
+  "damage_in_sun": {
+    "type": "origins:damage_over_time",
+    "interval": 20,
+    "onset_delay": 1,
+    "damage": 1,
+    "damage_source": {
+      "name": "onFire",
+      "unblockable": true,
+      "bypasses_armor": true
+    },
+    "protection_enchantment": "minecraft:fire_protection",
+    "protection_effectiveness": 1.0,
+    "condition": {
+      "type": "origins:exposed_to_sun"
+    }
+  },
+  "wooden_sword_damage": {
+    "type": "origins:modify_damage_taken",
+    "bientity_condition": {
+      "type": "origins:actor_condition",
+      "condition": {
+        "type": "origins:equipped_item",
+        "equipment_slot": "mainhand",
+        "item_condition": {
+          "type": "origins:ingredient",
+          "ingredient": {
+            "item": "minecraft:wooden_sword"
+          }
+        }
+      }
+    },
+    "modifier": {
+      "operation": "multiply_total",
+      "value": 3
+    }
+  }
+}
+

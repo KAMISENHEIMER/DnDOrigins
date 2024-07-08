@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "artificersmp:elf/elf_elven_build"
+  ],
+  "icon": {
+    "item":"minecraft:red_glazed_terracotta"
+  },
+  "impact": 3,
+  "name": "Dhampir",
+  "description": "Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers."
+}
