@@ -1,10 +1,8 @@
-# AritificerSMPOrigins
-A collection of D&amp;D inspired origins for the Artificer SMP. The current list of origins are as follows: Dragonborn, Dwarf, Elf, Tiefling, Kobold, Goliath, Variant Human, and Warforged.
+# DnDOrigins
+A Dungeons and Dragons inspired expansion for the Minecraft Origins mod.  
+Forked from [ArtificerSMPOrigins](https://github.com/JaredWood-Dev/AritificerSMPOrigins) by JaredWood-Dev and KAMISENHEIMER,  
+to create a more focused experience, centered on the base 10 DnD species.
 
-## Usage
-The following section desacribes how to use the files presented here based on the type.
-### Datapack
-This is a Minecraft Datapack. In order to install this pack create a minecraft world. Then locate the world in the 'saves' folder of the Minecraft installation. Once there extract the ZIP file to the 'datapacks' folder inside of the world folder. In-game run the `datapacks enable "artificersmporigins"` command to enable the datapack.
-
-### Mod
-The mod is currently not yet implemented.
+## Setup
+1. Extract the ZIP file to the 'datapacks' folder inside the world folder.  
+2. In-game run `datapacks enable "artificersmporigins"`.
