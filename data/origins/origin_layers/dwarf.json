@@ -4,12 +4,12 @@
             "condition": {
                 "type": "origins:origin",
                 "layer": "origins:origin",
-                "origin": "artificersmp:dwarf"
+                "origin": "dndorigins:dwarf"
             },
             "origins": [
-                "artificersmp:dwarf/hill",
-                "artificersmp:dwarf/mountain",
-                "artificersmp:dwarf/duergar"
+                "dndorigins:dwarf/hill",
+                "dndorigins:dwarf/mountain",
+                "dndorigins:dwarf/duergar"
             ]
         }
     ],

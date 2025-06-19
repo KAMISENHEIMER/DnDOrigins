@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "dndorigins:sunlight_sensitivity",
+        "dndorigins:elf/drow/drow_drow_weapon_training",
+        "dndorigins:elf/drow/drow_drow_repuation",
+        "dndorigins:superior_darkvision",
+        "dndorigins:villager_hate"
+    ],
+    "icon": {
+        "item":"minecraft:flint"
+    },
+    "impact": 2,
+    "name": "Drow",
+    "description": "The Drow are infused with the magic of the underdark, being able to summon forth light and darkness."
+}

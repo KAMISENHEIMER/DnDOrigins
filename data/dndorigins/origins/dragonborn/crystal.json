@@ -1,0 +1,14 @@
+{
+    "powers": [
+         "dndorigins:dragonborn/amethyst/amethyst_breath_weapon",
+         "dndorigins:dragonborn/dragonborn_draconic_resistance_force",
+         "dndorigins:dragonborn/gem_gem_flight",
+         "dndorigins:dragonborn/dragonborn_habitat_mountains_and_glaciers"
+    ],
+    "icon": {
+        "item":"ae2:certus_quartz_crystal"
+    },
+    "impact": 2,
+    "name": "Crystal",
+    "description": "Crystal Dragonborn claim lineage to Crystal Dragons, creatures who breathe breams of radiant energy."
+}

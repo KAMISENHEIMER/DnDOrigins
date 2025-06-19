@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "dndorigins:dragonborn/red/red_breath_weapon",
+        "dndorigins:dragonborn/dragonborn_draconic_resistance_fire",
+        "dndorigins:dragonborn/dragonborn_habitat_mountains_and_molten",
+        "dndorigins:dragonborn/red/red_chromatic_warding"
+    ],
+    "icon": {
+        "item":"minecraft:red_dye"
+    },
+    "impact": 2,
+    "name": "Red",
+    "description": "Red Dragonborn claim lineage to anchient red dragons, creatures who breathe plumes of fire."
+}

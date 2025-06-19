@@ -2,11 +2,11 @@
     "replace": true,
     "order": 0,
     "origins":[
-        "artificersmp:dragonborn",
-        "artificersmp:human",
-        "artificersmp:elf",
-        "artificersmp:dwarf",
-        "artificersmp:tiefling",
-        "artificersmp:goliath"
+        "dndorigins:dragonborn",
+        "dndorigins:human",
+        "dndorigins:elf",
+        "dndorigins:dwarf",
+        "dndorigins:tiefling",
+        "dndorigins:goliath"
     ]
 }

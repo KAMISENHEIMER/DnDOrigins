@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "dndorigins:dragonborn/red/red_breath_weapon",
+        "dndorigins:dragonborn/dragonborn_draconic_resistance_fire",
+        "dndorigins:dragonborn/dragonborn_habitat_warm_and_dry"
+    ],
+    "icon": {
+        "item":"create:brass_ingot"
+    },
+    "impact": 2,
+    "name": "Brass",
+    "description": "Brass Dragonborn claim linage to Brass Dragons, creatues who breath plumes of fire."
+}
