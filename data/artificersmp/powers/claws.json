@@ -13,8 +13,7 @@
     }
   },
   "modifier": {
-    "name": "Extra damage when submerged",
     "operation": "addition",
-    "value": 5.0
+    "value": 5
   }
 }
