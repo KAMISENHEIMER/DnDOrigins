@@ -1,0 +1,28 @@
+{
+  "name": "Aarakocra Wings",
+  "description": "You have bird like wings which allow you to glide very fast. You cannot use these wings if you are wearing heavy armor (iron or higher).",
+  "type": "origins:multiple",
+  "wings": {
+    "type": "origins:elytra_flight",
+    "render_elytra": true,
+    "texture_location": "minecraft:textures/entity/elytra.png",
+    "condition": {
+      "type": "origins:attribute",
+      "attribute": "minecraft:generic.armor",
+      "comparison": "<",
+      "compare_to": 15.0
+    }
+  },
+  "fly_speed": {
+  "type": "origins:modify_air_speed",
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 1
+    },
+    "condition": {
+      "type": "origins:fall_flying"
+    }
+  }
+}
+
+
