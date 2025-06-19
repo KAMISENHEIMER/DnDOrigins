@@ -7,9 +7,6 @@
                 "origin": "artificersmp:dwarf"
             },
             "origins": [
-                "artificersmp:dwarf/hill",
-                "artificersmp:dwarf/mountain",
-                "artificersmp:dwarf/duergar",
                 "artificersmp:dwarf/dawi_zharr"
             ]
         }
