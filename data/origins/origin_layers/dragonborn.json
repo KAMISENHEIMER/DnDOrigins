@@ -1,0 +1,20 @@
+{
+    "origins":[
+        {
+            "condition": {
+                "type": "origins:origin",
+                "layer": "origins:origin",
+                "origin": "artificersmp:dragonborn"
+            },
+            "origins": [
+                "artificersmp:dragonborn/amythest",
+                "artificersmp:dragonborn/crystal",
+                "artificersmp:dragonborn/emerald",
+                "artificersmp:dragonborn/sapphire",
+                "artificersmp:dragonborn/topaz"
+            ]
+        }
+    ],
+    "order": 4,
+    "name": "Draconic Ancestry"
+}

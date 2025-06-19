@@ -2,6 +2,7 @@
     "replace": false,
     "order": 0,
     "origins":[
+        "artificersmp:dragonborn",
         "artificersmp:dwarf",
         "artificersmp:kobold",
         "artificersmp:warforged",
