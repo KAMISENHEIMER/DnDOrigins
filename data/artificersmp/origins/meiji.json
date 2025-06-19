@@ -1,0 +1,9 @@
+{
+    "name": "Meiji",
+    "description": "The Meiji are monkey-like folk who hail from eastern lands. They are nimble, are excellent climbers, and excell at thrown arms.",
+    "icon":"minecraft:cocoa_beans",
+    "impact": 1,
+    "powers": [
+        "artfiicersmp:darkvision"
+    ]
+}
