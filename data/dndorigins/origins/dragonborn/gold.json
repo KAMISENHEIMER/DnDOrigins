@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "dndorigins:dragonborn/red/red_breath_weapon",
+        "dndorigins:dragonborn/dragonborn_draconic_resistance_fire",
+        "dndorigins:dragonborn/dragonborn_habitat_temperate_and_wet"
+    ],
+    "icon": {
+        "item":"minecraft:gold_ingot"
+    },
+    "impact": 2,
+    "name": "Gold",
+    "description": "Gold Dragonborn claim linage to Gold Dragons, creatures who breath plumes of fire."
+}

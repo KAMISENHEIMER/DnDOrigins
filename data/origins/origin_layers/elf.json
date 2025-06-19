@@ -4,12 +4,12 @@
             "condition": {
                 "type": "origins:origin",
                 "layer": "origins:origin",
-                "origin": "artificersmp:elf"
+                "origin": "dndorigins:elf"
             },
             "origins": [
-                "artificersmp:elf/wood",
-                "artificersmp:elf/high",
-                "artificersmp:elf/drow"
+                "dndorigins:elf/wood",
+                "dndorigins:elf/high",
+                "dndorigins:elf/drow"
             ]
         }
     ],
