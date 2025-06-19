@@ -7,10 +7,6 @@
         "artificersmp:elf",
         "artificersmp:dwarf",
         "artificersmp:tiefling",
-        "artificersmp:goliath",
-        "artificersmp:kobold",
-        "artificersmp:warforged",
-        "artificersmp:tabaxi",
-        "artificersmp:aarakocra"
+        "artificersmp:goliath"
     ]
 }
